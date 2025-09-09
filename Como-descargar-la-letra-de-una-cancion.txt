@@ -1,0 +1,63 @@
+Cómo descargar la letra de una canción en un archivo .txt
+🔹 Paso 1: Buscar la letra de la canción
+
+Ve a Google o cualquier buscador.
+
+Escribe:
+
+[nombre de la canción] letra
+
+
+Ejemplo:
+
+Bohemian Rhapsody letra
+
+
+Entra a una página confiable como:
+
+Letras.com
+
+Genius.com
+
+Musixmatch.com
+
+🔹 Paso 2: Copiar la letra
+
+Selecciona todo el texto de la letra con el mouse.
+
+Haz clic derecho → "Copiar" o presiona Ctrl + C (Windows) o Cmd + C (Mac).
+
+🔹 Paso 3: Pegar la letra en un archivo de texto
+
+Abre el Bloc de notas (Windows) o TextEdit (Mac).
+
+Pega la letra (Ctrl + V o Cmd + V).
+
+Opcional: Escribe el nombre del artista y el título de la canción al principio.
+
+🔹 Paso 4: Guardar como archivo .txt
+
+Haz clic en Archivo → Guardar como.
+
+Elige una ubicación.
+
+Nombra el archivo, por ejemplo:
+
+Queen - Bohemian Rhapsody.txt
+
+
+Asegúrate de que esté seleccionado el formato .txt.
+
+Haz clic en Guardar.
+
+¡Listo! Ahora tienes la letra guardada como un archivo de texto.
+
+🛑 ¿Y si querías otra cosa?
+
+Si te referías a:
+
+Descargar el audio de una canción y guardarlo como .txt (lo cual no sirve, ya que el texto no puede reproducir audio),
+
+O convertir una canción en texto mediante transcripción automática (como la letra cantada o una transcripción hablada),
+
+Explícame un poco más lo que necesitas y con gusto te ayudo.

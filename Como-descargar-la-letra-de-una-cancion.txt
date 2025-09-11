@@ -5,6 +5,7 @@ Estoy en la rama roja y voy a hacer un cambio
 cambio rojo 1
 cambio rojo 2
 cambio rojo 3
+cambio rojo 4
 
 Ve a Google o cualquier buscador.
 
